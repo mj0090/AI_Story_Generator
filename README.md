@@ -9,5 +9,5 @@ The AI Dungeon Story Generator is an interactive text-based storytelling applica
 | **Python**                    | Core programming language                         |
 | **Hugging Face Transformers** | Provides GPT-2/GPT-Neo models for text generation |
 | **Torch (PyTorch)**           | Deep learning backend used by the models          |
-| **Streamlit**                 | Rapid web app framework for deployment            |
+| **Gradio**                    | Rapid web app framework for deployment            |
 | **Datetime & OS**             | Utility modules for file saving and timestamps    |
